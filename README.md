@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Currently Working on:
+ - HDAT9700 - Statistical Modelling 2
+ - HDAT9800 - Visualisation and Communication of Health Data
+
 <!--
 **z3330466/z3330466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
